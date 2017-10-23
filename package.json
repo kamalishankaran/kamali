@@ -1,0 +1,22 @@
+{
+  "name": "mersal",
+  "version": "1.0.0",
+  "description": "reactjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamalishankaran/kamali.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "kamali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamalishankaran/kamali/issues"
+  },
+  "homepage": "https://github.com/kamalishankaran/kamali#readme"
+}
